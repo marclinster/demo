@@ -6,3 +6,4 @@ This is a second line
 A new line is here, and that is where I am adding more text
 Also a second line
 and then I add a third one
+This is the line that will cause trouble
